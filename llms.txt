@@ -1,0 +1,99 @@
+# OBMS
+
+> Open-source business management software for workflow streamlining and digital sales automation
+
+- [OBMS](/index.md)
+
+## api
+
+OBMS Swagger API documentation
+
+- [OBMS API Documentation (v1.0.0)](/api.md)api: landing page
+
+## blog
+
+
+### authors
+
+- [Authors](/blog/authors.md)authors: landing page
+
+## enterprise-support
+
+Next level cloud solutions built on Kublade, backed by experts
+
+- [Enterprise Support](/enterprise-support.md)enterprise-support: landing page
+
+## legal-disclosure
+
+Legal Disclosure for Kublade
+
+- [Legal Disclosure](/legal-disclosure.md)legal-disclosure: landing page
+
+## privacy-policy
+
+Privacy Policy for Kublade
+
+- [Privacy Policy](/privacy-policy.md)privacy-policy: landing page
+
+## docs
+
+
+### admin_guide
+
+- [Introduction](/docs/admin_guide/intro.md)
+- [OAUTH Server](/docs/admin_guide/oauth.md)
+- [User Management](/docs/admin_guide/user_management.md)
+- [WebDAV Server](/docs/admin_guide/webdav.md)
+
+### category
+
+- [Admin Guide](/docs/category/admin-guide.md)
+- [Developer Guide](/docs/category/developer-guide.md)
+- [Getting Started](/docs/category/getting-started.md)
+- [Installation](/docs/category/installation.md)
+- [Project Information](/docs/category/project-information.md)
+- [User Guide](/docs/category/user-guide.md)
+
+### developer_guide
+
+- [REST API](/docs/developer_guide/api.md): Introduction
+- [Contributing to This Project](/docs/developer_guide/contributing.md): Thank you for your interest in contributing! This guide will help you get started.
+- [Entities](/docs/developer_guide/entities.md): Introduction
+- [Introduction](/docs/developer_guide/intro.md): About the Guide
+- [Core](/docs/developer_guide/modules/core.md)
+- [Payment Gateways](/docs/developer_guide/modules/payment_gateways.md)
+- [Products](/docs/developer_guide/modules/products.md)
+- [Tooling](/docs/developer_guide/tooling.md)
+
+### getting-started
+
+- [Instance Configuration](/docs/getting-started/configuration.md)
+- [Default Login Credentials](/docs/getting-started/default_login.md): Introduction
+- [Bare-Metal Installation](/docs/getting-started/installation/bare_metal.md): Introduction
+- [Docker Installation](/docs/getting-started/installation/docker.md): Introduction
+- [Kubernetes Installation](/docs/getting-started/installation/kubernetes.md): Introduction
+- [Prerequisites](/docs/getting-started/prerequisites.md): System Requirements
+
+### intro
+
+Welcome to the OBMS documentation!
+
+- [Introduction](/docs/intro.md)intro: landing page
+
+### modules
+
+Introduction
+
+- [Modules](/docs/modules.md)modules: landing page
+
+### project
+
+- [Changelog](/docs/project/CHANGELOG.md): All notable changes to this project will be documented in this file.
+- [Contributing](/docs/project/CONTRIBUTING.md): Thank you for your interest in contributing to our project! This guide will help you get started with contributing effectively.
+- [Dependencies](/docs/project/DEPENDENCIES-latest.md): PHP (Composer) Dependencies
+- [License](/docs/project/LICENSE.md): This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+- [Security Policy](/docs/project/SECURITY.md): Supported Versions
+
+### user_guide
+
+- [Introduction](/docs/user_guide/intro.md)
