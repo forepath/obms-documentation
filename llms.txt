@@ -8,7 +8,7 @@
 
 OBMS Swagger API documentation
 
-- [OBMS API Documentation (v1.0.1)](/api.md)api: landing page
+- [OBMS API Documentation (v1.0.2)](/api.md)api: landing page
 
 ## blog
 
