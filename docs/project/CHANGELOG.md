@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.4.1](https://github.com/forepath/obms/compare/v1.4.0...v1.4.1) (2025-09-02)[​](#141-2025-09-02 "Direct link to 141-2025-09-02")
+
+### Bug Fixes[​](#bug-fixes "Direct link to Bug Fixes")
+
+* str\_contains haystack value fallback ([fdc6aab](https://github.com/forepath/obms/commit/fdc6aabf64111e402051ca63dfa537958bb26e27))
+
 ## [1.4.0](https://github.com/forepath/obms/compare/v1.3.2...v1.4.0) (2025-09-02)[​](#140-2025-09-02 "Direct link to 140-2025-09-02")
 
 ### Features[​](#features "Direct link to Features")
@@ -10,13 +16,13 @@ All notable changes to this project will be documented in this file.
 
 ## [1.3.2](https://github.com/forepath/obms/compare/v1.3.1...v1.3.2) (2025-08-16)[​](#132-2025-08-16 "Direct link to 132-2025-08-16")
 
-### Bug Fixes[​](#bug-fixes "Direct link to Bug Fixes")
+### Bug Fixes[​](#bug-fixes-1 "Direct link to Bug Fixes")
 
 * page acceptance checkbox labels ([78d26dd](https://github.com/forepath/obms/commit/78d26ddfebf0d105df4f8d1fa4f3397cfd9bdacc))
 
 ## [1.3.1](https://github.com/forepath/obms/compare/v1.3.0...v1.3.1) (2025-08-09)[​](#131-2025-08-09 "Direct link to 131-2025-08-09")
 
-### Bug Fixes[​](#bug-fixes-1 "Direct link to Bug Fixes")
+### Bug Fixes[​](#bug-fixes-2 "Direct link to Bug Fixes")
 
 * table action buttons width ([0d7363f](https://github.com/forepath/obms/commit/0d7363fd422f84c99fbb30298e2b471284cbe1d1))
 
@@ -34,19 +40,19 @@ All notable changes to this project will be documented in this file.
 
 ## [1.1.3](https://github.com/forepath/obms/compare/v1.1.2...v1.1.3) (2025-08-08)[​](#113-2025-08-08 "Direct link to 113-2025-08-08")
 
-### Bug Fixes[​](#bug-fixes-2 "Direct link to Bug Fixes")
+### Bug Fixes[​](#bug-fixes-3 "Direct link to Bug Fixes")
 
 * app facade availability ([8e8c2b2](https://github.com/forepath/obms/commit/8e8c2b2375bda9f6988b116a997a0418fb0db008))
 
 ## [1.1.2](https://github.com/forepath/obms/compare/v1.1.1...v1.1.2) (2025-08-08)[​](#112-2025-08-08 "Direct link to 112-2025-08-08")
 
-### Bug Fixes[​](#bug-fixes-3 "Direct link to Bug Fixes")
+### Bug Fixes[​](#bug-fixes-4 "Direct link to Bug Fixes")
 
 * theme appearance ([658e0ff](https://github.com/forepath/obms/commit/658e0ff292184ff1750ce0546293801d8e162ccb))
 
 ## [1.1.1](https://github.com/forepath/obms/compare/v1.1.0...v1.1.1) (2025-07-19)[​](#111-2025-07-19 "Direct link to 111-2025-07-19")
 
-### Bug Fixes[​](#bug-fixes-4 "Direct link to Bug Fixes")
+### Bug Fixes[​](#bug-fixes-5 "Direct link to Bug Fixes")
 
 * theme color default fallbacks ([d372fc2](https://github.com/forepath/obms/commit/d372fc22e35b33b5f11d3cb611b838e9ca71878f))
 
@@ -58,13 +64,13 @@ All notable changes to this project will be documented in this file.
 
 ## [1.0.2](https://github.com/forepath/obms/compare/v1.0.1...v1.0.2) (2025-07-19)[​](#102-2025-07-19 "Direct link to 102-2025-07-19")
 
-### Bug Fixes[​](#bug-fixes-5 "Direct link to Bug Fixes")
+### Bug Fixes[​](#bug-fixes-6 "Direct link to Bug Fixes")
 
 * encrypt session cookie by default ([3b60cfe](https://github.com/forepath/obms/commit/3b60cfefd16f28839105eb11ab61e29ccd7597e8))
 
 ## [1.0.1](https://github.com/forepath/obms/compare/v1.0.0...v1.0.1) (2025-07-19)[​](#101-2025-07-19 "Direct link to 101-2025-07-19")
 
-### Bug Fixes[​](#bug-fixes-6 "Direct link to Bug Fixes")
+### Bug Fixes[​](#bug-fixes-7 "Direct link to Bug Fixes")
 
 * aurora theme bootstrap icons reference ([1085937](https://github.com/forepath/obms/commit/1085937d7ca2b9f2d653cf498ed110aad9acfcc9))
 
