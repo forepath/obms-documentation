@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.4.0](https://github.com/forepath/obms/compare/v1.3.2...v1.4.0) (2025-09-02)[​](#140-2025-09-02 "Direct link to 140-2025-09-02")
+
+### Features[​](#features "Direct link to Features")
+
+* email verification for employees ([f65773c](https://github.com/forepath/obms/commit/f65773c95408d50c86cb0832d0463d0fe97de896))
+
 ## [1.3.2](https://github.com/forepath/obms/compare/v1.3.1...v1.3.2) (2025-08-16)[​](#132-2025-08-16 "Direct link to 132-2025-08-16")
 
 ### Bug Fixes[​](#bug-fixes "Direct link to Bug Fixes")
@@ -16,13 +22,13 @@ All notable changes to this project will be documented in this file.
 
 ## [1.3.0](https://github.com/forepath/obms/compare/v1.2.0...v1.3.0) (2025-08-09)[​](#130-2025-08-09 "Direct link to 130-2025-08-09")
 
-### Features[​](#features "Direct link to Features")
+### Features[​](#features-1 "Direct link to Features")
 
 * notification indicators ([#8](https://github.com/forepath/obms/issues/8)) ([48b90fa](https://github.com/forepath/obms/commit/48b90fa99978cd9bd8b350e45b59f6dc70a808ad))
 
 ## [1.2.0](https://github.com/forepath/obms/compare/v1.1.3...v1.2.0) (2025-08-09)[​](#120-2025-08-09 "Direct link to 120-2025-08-09")
 
-### Features[​](#features-1 "Direct link to Features")
+### Features[​](#features-2 "Direct link to Features")
 
 * object id search ([177644b](https://github.com/forepath/obms/commit/177644bf1428f85d35adafd68d8764c8c9a2871e))
 
@@ -46,7 +52,7 @@ All notable changes to this project will be documented in this file.
 
 ## [1.1.0](https://github.com/forepath/obms/compare/v1.0.2...v1.1.0) (2025-07-19)[​](#110-2025-07-19 "Direct link to 110-2025-07-19")
 
-### Features[​](#features-2 "Direct link to Features")
+### Features[​](#features-3 "Direct link to Features")
 
 * laravel 12 upgrade ([47c6a4c](https://github.com/forepath/obms/commit/47c6a4cd821da4dfb1552792380926c02c5d6986))
 
@@ -64,6 +70,6 @@ All notable changes to this project will be documented in this file.
 
 ## 1.0.0 (2025-07-17)[​](#100-2025-07-17 "Direct link to 1.0.0 (2025-07-17)")
 
-### Features[​](#features-3 "Direct link to Features")
+### Features[​](#features-4 "Direct link to Features")
 
 * initial commit ([9f992ff](https://github.com/forepath/obms/commit/9f992ffde57e150b58a71f1dc0f847c29dd37633))
