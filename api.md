@@ -37,7 +37,7 @@ Search...
 
 [API docs by Redocly](https://redocly.com/redoc/)
 
-# OBMS API Documentation<!-- --> (<!-- -->v1.6.1<!-- -->)
+# OBMS API Documentation<!-- --> (<!-- -->v1.6.3<!-- -->)
 
 Download OpenAPI specification<!-- -->:[Download](https://documents.obms.one/api-docs-latest.json)
 
